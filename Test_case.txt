@@ -1,0 +1,41 @@
+STUDENT GRADE CALCULATOR - TEST CASES
+
+Test Case 1:
+Input: Marks = 95
+Expected Result: Grade A
+Status: Passed
+
+Test Case 2:
+Input: Marks = 85
+Expected Result: Grade B
+Status: Passed
+
+Test Case 3:
+Input: Marks = 73
+Expected Result: Grade C
+Status: Passed
+
+Test Case 4:
+Input: Marks = 60
+Expected Result: Grade D
+Status: Passed
+
+Test Case 5:
+Input: Marks = 40
+Expected Result: Grade F
+Status: Passed
+
+Test Case 6:
+Input: Marks = 120
+Expected Result: Invalid marks message and ask for input again
+Status: Passed
+
+Test Case 7:
+Input: Marks = -10
+Expected Result: Invalid marks message and ask for input again
+Status: Passed
+
+Test Case 8:
+Input: Marks = abc
+Expected Result: Invalid number message and ask for input again
+Status: Passed
